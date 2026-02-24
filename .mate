@@ -2180,6 +2180,36 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8?wms
 https://dash2.antik.sk/stream/hisi_retro_music/playlist_cbcs.mpd
 
 
+#EXTINF:-1 cuid="1675" tvg-name="Trace Latina" tvg-id="ITBA3300042HE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/2000px-TRACE_Latina_Logo.png" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-title="𝐌𝐮𝐬𝐢𝐜 🌎|MTV",Trace Latina
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
+
+#EXTINF:-1 cuid="1678" tvg-name="Trace Urban²" tvg-id="ITBA3300041LY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-title="𝐌𝐮𝐬𝐢𝐜 🌎|MTV",Trace Urban²
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 cuid="1688" tvg-name="MTV Flow Latino 🇪🇸" tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-title="𝐌𝐮𝐬𝐢𝐜 🌎|MTV",MTV Flow Latino 🇪🇸
+https://stitcher.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=80f90cf7-7a92-11ef-97cb-02e0fd7f02bc
+
+#EXTINF:-1 cuid="1682" tvg-name="MTV best off" tvg-id="632afdf820e83e000710ea12" tvg-logo="https://images.pluto.tv/channels/632afdf820e83e000710ea12/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-title="𝐌𝐮𝐬𝐢𝐜 🌎|MTV",MTV Best Off 🇬🇧
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632afdf820e83e000710ea12/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+#EXTINF:-1 cuid="1685" tvg-name="MTV Classic 🇬🇧" tvg-id="66a11a21a79dea0008aa90ca" tvg-logo="https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-title="𝐌𝐮𝐬𝐢𝐜 🌎|MTV",MTV Classic 🇬🇧
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a11a21a79dea0008aa90ca/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+
+=========================================================== 🌈ROCK
+
+#EXTINF:-1 cuid="1692" tvg-name="538" tvg-id="TV.538.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/TV-538-RGB_new.png" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-title="𝐌𝐮𝐬𝐢𝐜 🌎|Diversos",TV 538 
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
+
+#EXTINF:-1 cuid="1693" tvg-name="Rockola tv" tvg-logo="https://www.freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2F0a1d51ea-22ca-42cd-8afb-de4a2db1116c-1678921793.94842.256x256.jpg&w=384&q=75" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-title="𝐌𝐮𝐬𝐢𝐜 🌎|Diversos",Rockola tv
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/f1e41991-852e-4879-9352-73da780e9230/2.m3u8
+
+#EXTINF:-1 cuid="1694" tvg-name="Rock TV" tvg-id="ITBC1100011RK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20230208T013201SQUARE.png_20230208013201.png" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-title="𝐌𝐮𝐬𝐢𝐜 🌎|Diversos",Rock TV
+https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8
+
+#EXTINF:-1 cuid="1695" tvg-name="Rocktv" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/rocktv.webp" group-logo="https://cdn-icons-png.freepik.com/512/18305/18305496.png" group-title="𝐌𝐮𝐬𝐢𝐜 🌎|Diversos",Rocktv
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
@@ -3704,3 +3734,170 @@ https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.m
 #EXTINF:-1 group-title="SG 🇸🇬" tvg-id="" tvg-chno="" group-logo="https://speedtrademarket.com/live/logo/mediacorp_logo.png" tvg-logo="http://www.2456788.com/tvicon/spotv.png",SPORT 2 (SGP)
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
 
+
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uVe56sB.jpeg" group-title="Adult",MEN'S NEC♂️ 🇯🇵
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
+https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index1/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Adult",Pigoo 🇯🇵
+https://nl.utako.moe/pigoo/index.m3u8
+
+#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="Adult",extasy HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+https://cdn4.skygo.mn/live/disk1/Extasy/HLSv3-FTA/Extasy.m3u8
+
+#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="Adult",Dorcel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+https://cdn4.skygo.mn/live/disk1/Dorcel/HLSv3-FTA/Dorcel.m3u8
+
+#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="Adult",Desire HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="Adult",Leo HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="Adult",Reality Kings HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Blu3Hu5tlerAdult" group-title="Adult" tvg-logo="",Blu3 Hu5tler
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54393232379c4a57898a8d4d12b6695c:2305a3f727638465116400f7c422af87
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560601/index.mpd
+
+#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="Adult",eroxx HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="Adult",Brazzers HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="Adult",Babes HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 group-title="Adult" tvg-id="Babes",Babes 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",惊艳
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",pandora
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",潘朵啦
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",彩虹
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",amazing tv
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/87
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",松1
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",松1b
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",松2
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",松2b
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",松3
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",松3b
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",porno
+http://live.redtraffic.xyz/anal.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",anal
+http://cdn.adultiptv.net/anal.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",asian
+http://live.redtraffic.xyz/asian.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",asia
+http://cdn.adultiptv.net/asian.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",bigass
+http://live.redtraffic.xyz/bigass.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",bigs
+http://cdn.adultiptv.net/bigass.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",bigsex
+http://live.redtraffic.xyz:80/bigass.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",bigdick
+http://live.redtraffic.xyz/bigdick.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",livecams2
+http://cdn.adultiptv.net/livecams.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",milf
+http://live.redtraffic.xyz/milf.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",milf
+http://cdn.adultiptv.net/milf.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",milf
+http://live.redtraffic.xyz:80/milf.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",pornstar2
+http://cdn.adultiptv.net/pornstar.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",pornstar3
+http://live.redtraffic.xyz:80/pornstar.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",povv
+http://live.redtraffic.xyz/pov.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",pov sex
+http://cdn.adultiptv.net/pov.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",pov
+http://live.redtraffic.xyz:80/pov.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",pov luxury
+http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",rough
+http://live.redtraffic.xyz/rough.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",rough
+http://cdn.adultiptv.net/rough.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",rusianc
+http://live.redtraffic.xyz/russian.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",rusian sex
+http://cdn.adultiptv.net/russian.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",russian
+http://live.redtraffic.xyz:80/russian.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",teenten
+http://live.redtraffic.xyz/teen.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",teen
+http://cdn.adultiptv.net/teen.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",teen sex
+http://live.redtraffic.xyz:80/teen.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",threesomew
+http://live.redtraffic.xyz/threesome.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",threesome sex
+http://cdn.adultiptv.net/threesome.m3u8
+
+#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="Adult",threesome
+http://live.redtraffic.xyz:80/threesome.m3u8
